@@ -4,6 +4,8 @@ public class Adopcion {
     String animalName;
     String PeopleName;
 
+    Persona persona;
+
     @Override
     public String toString() {
         return "Adopcion{" +
