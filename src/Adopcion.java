@@ -4,6 +4,7 @@ public class Adopcion {
     String animalName;
     String PeopleName;
 
+
     Persona persona;
 
     @Override

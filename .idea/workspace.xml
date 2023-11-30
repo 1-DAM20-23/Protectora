@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2980171a-6af6-4220-89e8-ab0af943b8ad" name="Changes" comment="Creacion del proyecto">
+    <list default="true" id="2980171a-6af6-4220-89e8-ab0af943b8ad" name="Changes" comment="Pullrequest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Adopcion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Adopcion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Perro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Perro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Persona.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,22 +31,22 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2YrUSTBBawwwexotBQ6wnVlF3Tx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature__1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature__1&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,11 +64,29 @@
       <option name="project" value="LOCAL" />
       <updated>1701284438319</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="A falta del main">
+      <option name="closed" value="true" />
+      <created>1701285862742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701285862742</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Pullrequest">
+      <option name="closed" value="true" />
+      <created>1701286794941</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701286794941</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creacion del proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creacion del proyecto" />
+    <MESSAGE value="A falta del main" />
+    <MESSAGE value="Pullrequest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pullrequest" />
   </component>
 </project>
